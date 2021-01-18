@@ -28,4 +28,4 @@ def titleize (string)
   return string.titleize 
 end
 
-#.titleize avec rails Sinon 
+#.titleize avec rails sinon .capitalize? 
